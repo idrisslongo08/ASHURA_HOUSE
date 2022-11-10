@@ -17,15 +17,15 @@
 					<h4 class="text-capitalize mb-4 has-text-white">Liens rapides</h4>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="about.php">A propos</a></li>
-						<li><a href="service.php">Services</a></li>
-						<li><a href="contact.php">Contacts</a></li>
+						<li><a href="#apropos">A propos</a></li>
+						<li><a href="#service">Services</a></li>
+						<li><a href="#contact">Contacts</a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="column is-2-desktop is-5-tablet">
 				<div class="widget mb-0">
-					<h4 class="text-capitalize mb-4 has-text-white">Follow us</h4>
+					<h4 class="text-capitalize mb-4 has-text-white">Suivez nous</h4>
 					<ul class="list-unstyled footer-socials">
 						<li><a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/"><i class="ti-facebook mr-2 text-muted"></i>facebook</a></li>
 						<li><a href="#"><i class="ti-twitter mr-2 text-muted"></i>Twitter</a></li>

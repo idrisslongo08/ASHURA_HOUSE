@@ -1,5 +1,5 @@
 <?php
-include('headerContact.php');
+//include('headerContact.php');
 
 ?>
 <section class="contact-form-wrap section">
@@ -10,8 +10,8 @@ include('headerContact.php');
          </div>
          <div class="column is-6-desktop is-12-tablet">
             <div class="contact-content">
-               <p class="mb-4 mt-2 lead h4"> ... N’hésitez pas à contacter <br></p>
-               <h2 class="mb-3">(+243) 978175635</h2> <br> <h2>(+243) 992168086</h2>
+               <p> ... N’hésitez pas à contacter <br></p>
+               <h4 class="mb-3">(+243) 978175635</h4> <br> <h4>(+243) 992168086</h4>
                <p>Pour plus d’information</p>
                <ul class="social-icons list-inline mt-5">
                   <li class="list-inline-item">
@@ -44,7 +44,7 @@ include('headerContact.php');
                <!-- end message -->
                <?php
                }?>
-               <h3 class="text-md ">Contact Us</h3>
+               <h3 class="text-md ">Contactez nous</h3>
                <p class="mb-5"></p>
                <div class="input-group">
                   <input name="nom" type="text" class="input" placeholder="Votre nom">
@@ -64,7 +64,3 @@ include('headerContact.php');
       </div>
    </div>
 </section>
-
-<?php
-include('footer.php');
-?>

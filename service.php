@@ -1,9 +1,6 @@
-<?php
-include('headerService.php');
 
-?>
 
-<body>
+
 <section class="section team position-relative">
    <div class="container">
       <div class="columns is-justify-content-center">
@@ -146,16 +143,5 @@ include('headerService.php');
          </div>
         </div>
    </div>
+</section>
 
-
-   <section>
-      <div class="container">
-         <div class="row">
-            <div class="col-lg-12">
-               <div class="card">
-                  <div class="card-header">
-                     <h2 class="card-title">
-   </section>
-    
-<?php
-include('footer.php');

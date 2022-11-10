@@ -4,7 +4,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 function send_email($name_to, $mail_to, $mail_subject, $mail_body) {
 
-    $email="ashurahousemail@gmail.com";
+    $email="ashurahouse@gmail.com";
 
     $name=$name_to;
     $to=$email;
@@ -42,7 +42,7 @@ function send_email($name_to, $mail_to, $mail_subject, $mail_body) {
     $email->Body=$body;
 
     if($email->send()) {
-        header('Location: contact.php?message=success');
+        header('Location: index.php?message=success');
 
 
     }
@@ -58,7 +58,7 @@ if(isset($_POST['nom']) && isset($_POST['message']) && isset($_POST['email']) &&
     $message_body=trim($_POST['message']);
     $email=trim($_POST['email']);
     $subject=trim($_POST['subject']);
-    send_email($nom,$email,$subject,$message_body);
+    send_email($nom,$email,$subject,$message_body." Envoyer la reponse au : ".$email);
 
 }
 

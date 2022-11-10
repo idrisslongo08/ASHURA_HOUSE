@@ -43,6 +43,7 @@
 <!-- footer Start -->
 
 <body>
+	<a name="home"></a>
 <header class="navigation">
 	<div class="header-top is-hidden-mobile">
 		<div class="container">
@@ -79,23 +80,17 @@
 
 			<div class="navbar-menu mr-0" id="navigation">
 				<ul class="navbar-end">					 
+					
 					<li class="navbar-item">
-						<a class="navbar-link is-arrowless" href="index.php">Accueil</a>
+						<a class="navbar-link is-arrowless" href="#apropos">A propos de nous</a>
 					</li>
 					
 					<li class="navbar-item">
-						<a class="navbar-link is-arrowless" href="about.php">A propos de nous</a>
+						<a class="navbar-link is-arrowless" href="#service">Services</a>
 					</li>
 					
 					<li class="navbar-item">
-						<a class="navbar-link is-arrowless" href="service.php">Services</a>
-					</li>
-					
-					<li class="navbar-item">
-						<a class="navbar-link is-arrowless" href="contact.php">Contact</a>
-					</li>
-					<li class="navbar-item">
-						<a class="navbar-link is-arrowless quote-btn bg-primary rounded-btn letter-spacing is-uppercase" href="contact.php">
+						<a class="navbar-link is-arrowless quote-btn bg-primary rounded-btn letter-spacing is-uppercase" href="#contact">
 							Contactez nous<i class="ti-angle-right"></i>
 						</a>
 					</li>
@@ -111,8 +106,7 @@
          <div class="column is-9-widescreen is-12-desktop">
             <div class="has-text-centered">
                <h1 class="animated fadeInUp mb-6 has-text-white">SOCIETE DE PRESTATION DE SERVICES</h1>
-               <a href="#!" class="btn btn-main animated fadeInUp m-1" >PARCOURIR<i class="btn-icon fa fa-angle-right ml-2"></i></a>
-               <a href="#!" class="btn btn-solid-border animated fadeInUp m-1" >DECOUVREZ PLUS</a>
+               <a href="#service" class="btn btn-solid-border animated fadeInUp m-1" >DECOUVREZ PLUS</a>
             </div>
          </div>
       </div>
@@ -120,29 +114,10 @@
 </section>
 <section class="mt--6 is-relative slider-cta">
    <div class="container">
-      <div class="columns is-desktop is-align-items-center bg-primary rounded">
-         <div class="column is-8-desktop">
-            <h3 class="mb-4 has-text-white">...et nos clients & partenaires sont satisfaits... </h3>
-            <p class="text-white-50"> </p>
-         </div>
-         <div class="column is-4-desktop has-text-right">
-            <a href="#!" class="btn btn-white mb-0">DECOUVREZ PLUS</a>
-         </div>
-      </div>
+      
    </div>
 </section>
 <!-- Slider End -->
  
 <!-- Section Intro Start -->
-<section class="section intro" >
-	<div class="container">
-		<div class="columns is-desktop is-justify-content-space-between">
-			<div class="column is-5-desktop">
-				<div class="pt-5 mb-4 mb-lg-0">
-					<h1 class="mt-3 text-md font-secondary">Nous fournissons la meilleure solution aux clients...</h1>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
