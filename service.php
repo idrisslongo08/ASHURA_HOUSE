@@ -34,7 +34,6 @@
                   <h3 class="mt-0 mb-2 text-capitalize">TOPOGRAPHIE.</h3>
                   <ul class="team-social list-inline ">
                      <li class="list-inline-item">
-                        <a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/" class="facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
                      </li>
                   </ul>
                </div>
@@ -48,7 +47,6 @@
                   <h3 class="mt-0 mb-2 text-capitalize">ETUDES GEOLOGIQUES ET MINIERES</h3>
                   <ul class="team-social list-inline ">
                      <li class="list-inline-item">
-                        <a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/" class="facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
                      </li>
                     
                   </ul>

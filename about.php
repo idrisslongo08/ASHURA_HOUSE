@@ -4,8 +4,7 @@
 
 <section class="section team position-relative">
    <div class="container">
-      <div class="columns is-justify-content-cente
-      r">
+      <div class="columns is-justify-content-center">
          <div class="column is-6-widescreen is-8-desktop is-10-tablet has-text-centered">
             <div class="section-title">
                <h2 class="mb-4">A propos</h2>
