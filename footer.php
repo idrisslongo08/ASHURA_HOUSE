@@ -6,7 +6,7 @@
 					<div class="logo mb-4">
 						<h2 class="has-text-white" style="font-size:2rem">Ashura House SARL.</h2>
 					</div>
-					<a href="ashurahouse@gmail.com" class="has-text-white">ashurahouse@gmail.com</a>
+					<a href="ashurahouse@gmail.com" class="has-text-white">ashura.house09@ashurahouse.com</a>
 					<p class="mt-4 mb-3">33, avenue Nyanza, quartier Industriel, commune Kampemba, ville de Lubumbashi  <br> Haut-Katanga, République Démocratique du Congo.</p>
 					<a href="tel:+243 992168086"><span class="has-text-white h4">+243 978175635 / +243 992168086</span></a>
 				</div>
@@ -40,7 +40,7 @@
 			<div class="columns is-justify-content-center">
 				<div class="column has-text-centered">
                 <div class="copyright">
-						<p>&copy; Copyright <span id="datePage"> </span>  <a href="https://github.com/idrisslongo08/" target="_blank" class=" has-text-white"></a></p>
+						<p >&copy; Copyright <span id="datePage">  </span> | Design by Funda</p>
 					</div>
 				</div>
 			</div>

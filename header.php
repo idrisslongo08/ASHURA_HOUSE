@@ -51,12 +51,12 @@
 				<div class="column is-9">
 					<div class="header-top-info">
 						<a href="#"><i class="fa fa-phone mr-2"></i><span>+243 978175635 / +243 992168086</span></a>
-						<a href="mailto:ashurahouse@gmail.com" ><i class="fa fa-envelope mr-2"></i><span>ashurahouse@gmail.com</span></a>
+						<a href="mailto:ashura.house09@ashurahouse.com" ><i class="fa fa-envelope mr-2"></i><span>ashura.house09@ashurahouse.com</span></a>
 					</div>
 				</div>
 				<div class="column is-3">
 					<div class="header-top-socials has-text-centered has-text-right-tablet">
-						<a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/" target="_blank"><i class="ti-facebook"></i></a>
+						<!-- <a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/" target="_blank"><i class="ti-facebook"></i></a> -->
 						
 					</div>
 				</div>
@@ -68,7 +68,7 @@
 			<div class="navbar-brand ml-0">
 				<a class="navbar-item" href="index.php">
 					<img src="images/logo.png" alt="logo">
-					<h2 class="has-text-white" style="font-size:2rem">ASHURA HOUSE SARL.</h2>
+					<h3 class="has-text-white">ASHURA HOUSE SARL</h3>
 				</a>
 				<button role="button" class="navbar-burger burger" data-hidden="true" data-target="navigation">
 					<span aria-hidden="true"></span>

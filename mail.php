@@ -4,14 +4,14 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 function send_email($name_to, $mail_to, $mail_subject, $mail_body) {
 
-    $email="ashurahouse@gmail.com";
+    $email="ashura.house09@ashurahouse.com";
 
     $name=$name_to;
     $to=$email;
     $subject=$mail_subject;
     $body=$mail_body;
 
-    $from="ashurahousemail@gmail.com";
+    $from="ashura.house09@gmail.com";
     $password="holcavvokyqbhhus";
 
     require_once "phpMail/src/PHPMailer.php";
